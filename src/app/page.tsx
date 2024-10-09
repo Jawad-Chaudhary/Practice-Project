@@ -7,7 +7,7 @@ export default function Home() {
       <section className="w-[full] bg-[#eafaf1] h-[600px]">
         <div className="px-20 animate-fadeInUp ">
           <div className="text-4xl font-extrabold w-[500px] ">Yes, your business can survive that expense.</div>
-          <div className="mt-5 text-[16px] tracking-wider w-[620px] leading-7">Do you know how much money you’ll have in two weeks? Two months? Two years? Business owners who use Pulse have better cash flow habits and a firm grasp on the pulse of their business. <b>First month free.</b></div>
+          <div className="mt-5 text-[16px] tracking-wider w-[620px] leading-7">Do you know how much money you'll have in two weeks? Two months? Two years? Business owners who use Pulse have better cash flow habits and a firm grasp on the pulse of their business. <b>First month free.</b></div>
           <button className="mt-8 text-2xl font-bold text-white bg-[#3ba0f2] px-7 py-5 shadow-lg 
           transition-all ease-in-out delay-100 duration-[0.25s] hover:-translate-y-[6px] hover:drop-shadow-md shadow-blue-400">Try 30 Days Free</button>
         </div>
@@ -24,7 +24,7 @@ export default function Home() {
 
       <div className="flex flex-col items-center mt-14">
         <h2 className="font-extrabold text-lg">“I like that it provides the opportunity to test scenarios.”</h2>
-        <p className="text-[18px] text-gray-600 mt-2 leading-7">You can quickly toggle income and expenses off and on to see what happens based on different scenarios to see how they impact your bottom line. When you can forecast your cash flow this quickly and easily, you’re empowered to make smarter business decisions.</p>
+        <p className="text-[18px] text-gray-600 mt-2 leading-7">You can quickly toggle income and expenses off and on to see what happens based on different scenarios to see how they impact your bottom line. When you can forecast your cash flow this quickly and easily, you're empowered to make smarter business decisions.</p>
       </div>
 
       <div className="flex flex-col items-center mt-14">
@@ -34,12 +34,12 @@ export default function Home() {
 
       <div className="flex flex-col items-center mt-14">
         <h2 className="font-extrabold text-lg">“It's easy to set up and understand.”</h2>
-        <p className="text-[18px] text-gray-600 mt-2 leading-7">Our user friendly design makes Pulse a breeze to set up and manage your cash flow. It’s so easy that over half of our customers are able to use Pulse every day without it taking up too much of their time.</p>
+        <p className="text-[18px] text-gray-600 mt-2 leading-7">Our user friendly design makes Pulse a breeze to set up and manage your cash flow. It's so easy that over half of our customers are able to use Pulse every day without it taking up too much of their time.</p>
       </div>
 
       <div className="flex flex-col items-center mt-14">
         <h2 className="font-extrabold text-lg">“It used to take us hours to manually do in Excel what Pulse does out of the box.”</h2>
-        <p className="text-[18px] text-gray-600 mt-2 leading-7">If you’re trying to manage your cash flow in systems that aren’t specifically designed for that purpose, you’re wasting the one resource more valuable than your cash, your time.</p>
+        <p className="text-[18px] text-gray-600 mt-2 leading-7">If you're trying to manage your cash flow in systems that aren't specifically designed for that purpose, you're wasting the one resource more valuable than your cash, your time.</p>
       </div>
 
       <div className="flex flex-col items-center mt-14">
@@ -49,7 +49,7 @@ export default function Home() {
 
       <div className="flex flex-col items-center mt-14">
         <h2 className="font-extrabold text-lg">“I like that Pulse is web-based.”</h2>
-        <p className="text-[18px] text-gray-600 mt-2 leading-7">You can access Pulse from any computer, any time. There’s no software to install.</p>
+        <p className="text-[18px] text-gray-600 mt-2 leading-7">You can access Pulse from any computer, any time. There's no software to install.</p>
       </div>
 
       <div className="flex flex-col items-center mt-14">
@@ -92,7 +92,7 @@ export default function Home() {
       <section className="h-[800px] flex flex-col items-center justify-center">
         <div className="flex flex-col items-center text-center w-[500px]">
           <h3 className="text-4xl font-extrabold leading-[50px]">Can your spreadsheets do this?</h3>
-          <p className="text-gray-600">Pulse is like your cash flow spreadsheet, except the math isn’t wrong. Also, Pulse has:</p>
+          <p className="text-gray-600">Pulse is like your cash flow spreadsheet, except the math isn't wrong. Also, Pulse has:</p>
         </div>
 
         <div className="w-[1100px] grid grid-cols-3 gap-y-20 gap-x-5 mt-12">
@@ -104,7 +104,7 @@ export default function Home() {
           <div className="flex flex-col items-center  w-[315px]">
             <Image src="/images/projects.png" alt="customer-project" width={55} height={55} />
             <h4 className="mt-8 font-extrabold text-lg">Customers and Projects</h4>
-            <p className="mt-1 font-light text-gray-600 text-sm text-center">Run cash flow reports on customers and projects to see how profitable they’re going to be.</p>
+            <p className="mt-1 font-light text-gray-600 text-sm text-center">Run cash flow reports on customers and projects to see how profitable they're going to be.</p>
           </div>
           <div className="flex flex-col items-center  w-[315px]">
             <Image src="/images/reports.png" alt="visual-reports" width={55} height={55} />
@@ -114,7 +114,7 @@ export default function Home() {
           <div className="flex flex-col items-center  w-[315px]">
             <Image src="/images/currency.png" alt="currency-conversion" width={55} height={55} />
             <h4 className="mt-8 font-extrabold text-lg">Currency Conversion</h4>
-            <p className="mt-1 font-light text-gray-600 text-sm text-center">If your business operates on multiple currencies, we have you covered with today’s exchange rates.</p>
+            <p className="mt-1 font-light text-gray-600 text-sm text-center">If your business operates on multiple currencies, we have you covered with today's exchange rates.</p>
           </div>
           <div className="flex flex-col items-center  w-[315px]">
             <Image src="/images/team.png" alt="invite team" width={55} height={55} />
