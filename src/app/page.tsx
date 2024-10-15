@@ -17,7 +17,7 @@ export default function Home() {
         <div className="px-4 md:px-20 animate-fadeInUp">
           <div className="text-2xl md:text-4xl font-extrabold md:w-[500px] w-full">Yes, your business can survive that expense.</div>
           <div className="mt-5 text-[14px] md:text-[16px] tracking-wider md:w-[620px] w-full leading-6 md:leading-7">
-            Do you know how much money you'll have in two weeks? Two months? Two years? Business owners who use Pulse have better cash flow habits and a firm grasp on the pulse of their business. 
+            Do you know how much money you&apos;ll have in two weeks? Two months? Two years? Business owners who use Pulse have better cash flow habits and a firm grasp on the pulse of their business. 
             <b>First month free.</b>
           </div>
           <button className="mt-8 text-center text-lg md:text-2xl font-bold text-white bg-[#3ba0f2] px-5 py-3 md:px-7 md:py-5 shadow-lg transition-all ease-in-out delay-100 duration-[0.25s] hover:-translate-y-[6px] hover:drop-shadow-md shadow-blue-400">
@@ -38,22 +38,22 @@ export default function Home() {
 
           <div data-aos="fade-up" className="flex flex-col items-center mt-14 text-center">
             <h2 className="font-extrabold text-md md:text-lg">“I like that it provides the opportunity to test scenarios.”</h2>
-            <p className="text-[16px] md:text-[18px] text-gray-600 mt-2 leading-6 md:leading-7">You can quickly toggle income and expenses off and on to see what happens based on different scenarios to see how they impact your bottom line. When you can forecast your cash flow this quickly and easily, you're empowered to make smarter business decisions.</p>
+            <p className="text-[16px] md:text-[18px] text-gray-600 mt-2 leading-6 md:leading-7">You can quickly toggle income and expenses off and on to see what happens based on different scenarios to see how they impact your bottom line. When you can forecast your cash flow this quickly and easily, you&apos;re empowered to make smarter business decisions.</p>
           </div>
 
           <div data-aos="fade-up" className="flex flex-col items-center mt-14 text-center">
             <h2 className="font-extrabold text-md md:text-lg">“Pulse shows me how to track cash flow the right way.”</h2>
-            <p className="text-[16px] md:text-[18px] text-gray-600 mt-2 leading-6 md:leading-7">Stop stumbling your way through spreadsheets not knowing what you don't know. Pulse shows you a simple, easy-to-understand chart that answers the questions you have about your cash flow.</p>
+            <p className="text-[16px] md:text-[18px] text-gray-600 mt-2 leading-6 md:leading-7">Stop stumbling your way through spreadsheets not knowing what you don&apos;t know. Pulse shows you a simple, easy-to-understand chart that answers the questions you have about your cash flow.</p>
           </div>
 
           <div data-aos="fade-up" className="flex flex-col items-center mt-14 text-center">
-            <h2 className="font-extrabold text-md md:text-lg">“It's easy to set up and understand.”</h2>
-            <p className="text-[16px] md:text-[18px] text-gray-600 mt-2 leading-6 md:leading-7">Our user-friendly design makes Pulse a breeze to set up and manage your cash flow. It's so easy that over half of our customers are able to use Pulse every day without it taking up too much of their time.</p>
+            <h2 className="font-extrabold text-md md:text-lg">“It&apos;s easy to set up and understand.”</h2>
+            <p className="text-[16px] md:text-[18px] text-gray-600 mt-2 leading-6 md:leading-7">Our user-friendly design makes Pulse a breeze to set up and manage your cash flow. It&apos;s so easy that over half of our customers are able to use Pulse every day without it taking up too much of their time.</p>
           </div>
 
           <div data-aos="fade-up" className="flex flex-col items-center mt-14 text-center">
             <h2 className="font-extrabold text-md md:text-lg">“It used to take us hours to manually do in Excel what Pulse does out of the box.”</h2>
-            <p className="text-[16px] md:text-[18px] text-gray-600 mt-2 leading-6 md:leading-7">If you're trying to manage your cash flow in systems that aren't specifically designed for that purpose, you're wasting the one resource more valuable than your cash—your time.</p>
+            <p className="text-[16px] md:text-[18px] text-gray-600 mt-2 leading-6 md:leading-7">If you&apos;re trying to manage your cash flow in systems that aren&apos;t specifically designed for that purpose, you&apos;re wasting the one resource more valuable than your cash—your time.</p>
           </div>
 
           <div data-aos="fade-up" className="flex flex-col items-center mt-14 text-center">
@@ -63,7 +63,7 @@ export default function Home() {
 
           <div data-aos="fade-up" className="flex flex-col items-center mt-14 text-center">
             <h2 className="font-extrabold text-md md:text-lg">“I like that Pulse is web-based.”</h2>
-            <p className="text-[16px] md:text-[18px] text-gray-600 mt-2 leading-6 md:leading-7">You can access Pulse from any computer, any time. There's no software to install.</p>
+            <p className="text-[16px] md:text-[18px] text-gray-600 mt-2 leading-6 md:leading-7">You can access Pulse from any computer, any time. There&apos;s no software to install.</p>
           </div>
 
           <div data-aos="fade-up" className="flex flex-col items-center mt-14 text-center">
