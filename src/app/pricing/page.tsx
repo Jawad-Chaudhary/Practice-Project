@@ -53,7 +53,7 @@ export default function Pricing() {
           <div data-aos="flip-right" className="flex flex-col md:items-center border-solid border-1px md:border-y-[1px] border-r-[1px] border-gray-400 bg-white px-5 md:px-10 pb-5 md:pb-10 relative" >
             <header className="absolute top-0 left-0 right-0 font-bold md:font-medium md:text-center leading-5 text-sm text-gray-500 bg-gray-100
              px-8 py-4 border-b-[1px] border-gray-300">Complex business with multiple financial accounts, currencies, or auditing needs?</header>
-            <h3 className="md:mt-28 mt-20 md:text-4xl text-3xl text-green-600 md:text-center">Unlock Extra Features</h3>
+            <h3 className="md:mt-28 mt-28 md:text-4xl text-3xl text-green-600 md:text-center">Unlock Extra Features</h3>
             <p className="md:text-2xl text-xl text-gray-500 md:text-center md:mt-3">$89 per month</p>
             <button className="mt-5 text-lg font-bold md:font-extrabold tracking-wide bg-green-400 px-8 py-3 text-gray-700
             transition-all duration-[0.25s] hover:opacity-45 active:opacity-35 animate-pulse ">Try Premium</button>

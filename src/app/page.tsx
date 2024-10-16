@@ -184,9 +184,10 @@ export default function Home() {
         </div>
       </section>
 
-      <section data-aos="fade-up" data-aos-duration="3000" className="md:h-[150px] h-auto bg-gradient-to-r from-[#00ad6a] to-[#1fe374] flex justify-center items-center text-center">
+      <section data-aos="zoom-in" 
+      className="md:h-[150px] h-auto bg-gradient-to-r from-[#00ad6a] to-[#1fe374] flex justify-center items-center text-center">
         <div className="text-white text-2xl md:text-4xl md:py-0 py-9 font-extrabold underline underline-offset-1
-        transition-all duration-[0.25s] hover:text-black animate-bounce"><a href="https://signup.pulseapp.com/plus">Sign Up for a Free 30-Day Trial &#8594;</a></div>
+        transition-all duration-[0.25s] hover:text-black"><a href="https://signup.pulseapp.com/plus">Sign Up for a Free 30-Day Trial &#8594;</a></div>
       </section>
     </main>
   )
